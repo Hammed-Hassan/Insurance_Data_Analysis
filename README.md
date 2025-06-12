@@ -12,6 +12,10 @@ Presentation Video -
 Our insurance company is experiencing increasing operational costs and fluctuating profitability, making it difficult to accurately forecast financial performance and identify areas for improvement. A lack of consolidated and actionable insights into claims trends, customer behavior, and policy performance hinders our ability to make data-driven decisions. We need to better understand the key drivers of our claims and revenue to optimize our underwriting processes, manage risks effectively, and improve customer satisfaction.
 
 **Task**
+- How can we precisely identify the drivers of escalating claims costs and extended processing times to significantly enhance operational efficiency?
+- Are our current policies yielding optimal profitability across all customer segments, and how can we refine our underwriting and pricing strategies for sustained growth?
+- What are the primary factors influencing customer churn versus retention, and how can we proactively leverage these insights to improve client loyalty and Lifetime Value?
+- What anomalous patterns within claim data can we leverage to proactively detect and mitigate potentially fraudulent activities, thereby safeguarding our financial integrity?
 
 
 ## Technical & Soft Skills
