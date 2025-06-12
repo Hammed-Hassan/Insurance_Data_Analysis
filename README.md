@@ -17,7 +17,13 @@ Our insurance company is experiencing increasing operational costs and fluctuati
 - What are the primary factors influencing customer churn versus retention, and how can we proactively leverage these insights to improve client loyalty and Lifetime Value?
 - What anomalous patterns within claim data can we leverage to proactively detect and mitigate potentially fraudulent activities, thereby safeguarding our financial integrity?
 
-#Data Model
+# Data Model
+![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/201.png)
+
+# Dashboard Design
+![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/202.png)
+![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/203.png)
+![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
 
 ## Technical & Soft Skills
