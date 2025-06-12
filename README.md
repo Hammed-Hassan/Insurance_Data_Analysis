@@ -8,27 +8,11 @@ Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzM
 
 Presentation Video - 
 
-**Project Objectives:**
+# Problem Statement
+Our insurance company is experiencing increasing operational costs and fluctuating profitability, making it difficult to accurately forecast financial performance and identify areas for improvement. A lack of consolidated and actionable insights into claims trends, customer behavior, and policy performance hinders our ability to make data-driven decisions. We need to better understand the key drivers of our claims and revenue to optimize our underwriting processes, manage risks effectively, and improve customer satisfaction.
 
-- Analyze core metrics (customers, revenue, growth) to establish a performance baseline and track progress.
-  
-- Identify key trends and patterns in customer and revenue data through segmentation by age and location.
+**Task**
 
-**Purpose of Churn Analytics:**
-
-- To establish a clear understanding of current customer and revenue performance and identify key growth trends. 
-
-- To uncover actionable insights into customer segments (age, location) and policy trends to inform potential business strategies. 
-
-- To create a foundation for data-driven decision-making across sales, marketing, and product development within the insurance business.
-
-**Importance of Analyzing Sales Data:**
-
-- Enables informed strategic planning by providing a data-backed view of customer base, revenue streams, and growth patterns.
-
-- Facilitates targeted interventions and resource allocation by identifying key customer segments and performance drivers.
-
-- Supports continuous improvement by monitoring trends and providing insights into customer behavior and policy dynamics.
 
 ## Technical & Soft Skills
 **Technical Skills:**
