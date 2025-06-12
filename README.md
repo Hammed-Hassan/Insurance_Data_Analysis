@@ -1,4 +1,12 @@
-# Insurance-Data-Analysis-Dashboard
+# Insurance Analysis - Power BI
+
+This Project is part of the Virtual Internship exercises organized by Codebasics
+
+Challenge Link - 
+
+Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Presentation Video - 
 
 **Project Objectives:**
 
