@@ -26,6 +26,9 @@ Our insurance company is experiencing increasing operational costs and fluctuati
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
 # Insight
+- Following March 2023's significant customer acquisition spike, both Total Revenue ($33.12bn) and Total Customer (19.03k) experienced a slight 1% decline month-over-month.
+- The 31-40 age group is the largest and highest-revenue customer segment ($12.31bn), with Delhi NCR dominating city performance at $13.31bn total revenue.
+- The Offline-Agent sales mode overwhelmingly dominates, accounting for over 55% of both total customers and revenue; however, all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
 
 ## Technical & Soft Skills
 **Technical Skills:**
