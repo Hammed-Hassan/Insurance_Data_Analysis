@@ -25,6 +25,7 @@ Our insurance company is experiencing increasing operational costs and fluctuati
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/203.png)
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
+#Insight
 
 ## Technical & Soft Skills
 **Technical Skills:**
