@@ -1,50 +1,77 @@
-# Insurance Analysis - Power BI
+# Insurance Analysis: Driving Profitability and Efficiency with Power BI
 
-This Project is part of the Virtual Internship exercises organized by Codebasics
-
-Challenge Link - 
+![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis___Power-BI/blob/main/Front%20Page.png)
 
 Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Presentation Video - 
+#
+## Executive Summary
+This project, developed as part of a Power BI bootcamp, tackles the business challenge of fluctuating profitability and rising costs in an insurance company. Through a comprehensive dashboard, the analysis provides insights into claims, customer behavior, and policy performance to guide strategic decisions and improve customer retention.
 
-# Problem Statement
-Our insurance company is experiencing increasing operational costs and fluctuating profitability, making it difficult to accurately forecast financial performance and identify areas for improvement. A lack of consolidated and actionable insights into claims trends, customer behavior, and policy performance hinders our ability to make data-driven decisions. We need to better understand the key drivers of our claims and revenue to optimize our underwriting processes, manage risks effectively, and improve customer satisfaction.
+#
+### Business Problem
+The core objectives of this analysis were to address the following key business questions:
+- Identify the root causes of rising claims costs and lengthy processing times.
+- Determine the profitability of policies across different customer segments.
+- Understand the key factors influencing customer churn and retention.
+- Detect anomalous patterns that could indicate fraudulent activity.
 
-**Task**
-- How can we precisely identify the drivers of escalating claims costs and extended processing times to significantly enhance operational efficiency?
-- Are our current policies yielding optimal profitability across all customer segments, and how can we refine our underwriting and pricing strategies for sustained growth?
-- What are the primary factors influencing customer churn versus retention, and how can we proactively leverage these insights to improve client loyalty and Lifetime Value?
-- What anomalous patterns within claim data can we leverage to proactively detect and mitigate potentially fraudulent activities, thereby safeguarding our financial integrity?
+#
+### Data Sourcing 
+This dataset was provided by the online school under strict confidentiality agreements and is classified as proprietary information. As such, it cannot be shared with third parties without explicit authorization.
 
-# Data Model
+#
+### Data Tranformation & Manipulation
+
+#
+### Data Modelling 
+A star schema data model was implemented to create a robust and scalable structure. This model centered around a fact premiums and settlements table, which was linked to several dimension tables including Customers, Policies, and Calendar. This design allows for efficient cross-functional analysis and provides a foundation for complex DAX measures.
+
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/201.png)
 
-# Dashboard Design
+
+# 
+### Dashboard Design
+### General View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/202.png)
+### Sales Mode Analysis View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/203.png)
+### Age Group Analysis View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
-# Insight
+#
+### Analysis & Key Insights
 - Following March 2023's significant customer acquisition spike, both Total Revenue ($33.12bn) and Total Customer (19.03k) experienced a slight 1% decline month-over-month.
 - The 31-40 age group is the largest and highest-revenue customer segment ($12.31bn), with Delhi NCR dominating city performance at $13.31bn total revenue.
 - The Offline-Agent sales mode overwhelmingly dominates, accounting for over 55% of both total customers and revenue; however, all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
 
-## Technical & Soft Skills
-**Technical Skills:**
-- [x] Proficiency in data wrangling and cleaning ensures raw data is transformed into a usable format using tools like Python.
-- [x] Statistical analysis and modeling leverage techniques like logistic regression and machine learning algorithms to predict churn accurately.
-- [x] Data visualization tools like Tableau or Python libraries help communicate churn patterns effectively through insightful visuals.
-- [x] Customer segmentation using clustering techniques like K-Means helps target specific groups for churn prevention.
-- [x] DAX: Using Data Analysis Expressions to create calculated columns for in-depth analysis.
+# 
+### Technical Skills and Tools
+- Data Visualization: Power BI
 
-**Soft Skills:**
-- [x] Analytical thinking allows for breaking down complex problems to derive actionable insights from data.
-- [x] Strong communication skills ensure technical findings are presented clearly to non-technical stakeholders.
-- [x] Collaboration and teamwork facilitate working with cross-functional teams to implement churn reduction strategies.
-- [x] A problem-solving mindset helps identify root causes of churn and propose innovative solutions to retain customers.
+- Data Wrangling & ETL: Power Query
 
+- Analysis: DAX (Data Analysis Expressions)
 
+- Modeling: Star Schema
+
+- Conceptual: Statistical Analysis, Customer Segmentation
+
+#
+### Conclusion & Recommendation 
+Conclusion
+The "Insurance Analysis" project successfully delivered a comprehensive solution for the company's data challenges. The Power BI dashboard provides a single source of truth for financial performance, customer behavior, and operational metrics.
+- Following a significant customer acquisition spike in March 2023, both Total Revenue ($33.12B) and Total Customers (19.03k) experienced a slight 1% month-over-month decline.
+- The 31-40 age group is the largest and highest-revenue customer segment, with Delhi NCR being the top-performing city.
+- The Offline-Agent sales channel is the primary revenue driver, but all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
+  
+Recommedation
+- Strategically Refine Channel Mix: Investigate the universal revenue decline in April 2023 to identify the root causes and develop a more resilient, diversified sales channel strategy.
+- Optimize High-Performing Segments: Leverage the insights from the dominant 31-40 age group and the Delhi NCR region to develop targeted marketing campaigns and policy offerings to maximize lifetime value.
+- Proactively Manage Claims: Use the granular claims data to identify process bottlenecks and implement measures to reduce processing times and associated costs.
+- Enhance Fraud Detection: Implement a dedicated fraud detection workflow using the project's data foundation to monitor for and flag anomalous claims.
+
+![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
 
 
 
