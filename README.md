@@ -70,6 +70,8 @@ Recommedation
 - Proactively Manage Claims: Use the granular claims data to identify process bottlenecks and implement measures to reduce processing times and associated costs.
 - Enhance Fraud Detection: Implement a dedicated fraud detection workflow using the project's data foundation to monitor for and flag anomalous claims.
 
+#
+
 ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
 
 
