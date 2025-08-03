@@ -2,8 +2,6 @@
 
 ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis___Power-BI/blob/main/Front%20Page.png)
 
-Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 #
 ## Executive Summary
 This project, developed as part of a Power BI bootcamp, tackles the business challenge of fluctuating profitability and rising costs in an insurance company. Through a comprehensive dashboard, the analysis provides insights into claims, customer behavior, and policy performance to guide strategic decisions and improve customer retention.
@@ -39,7 +37,8 @@ A star schema data model was implemented to create a robust and scalable structu
 ### Age Group Analysis View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
-#
+# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### Analysis & Key Insights
 - Following March 2023's significant customer acquisition spike, both Total Revenue ($33.12bn) and Total Customer (19.03k) experienced a slight 1% decline month-over-month.
 - The 31-40 age group is the largest and highest-revenue customer segment ($12.31bn), with Delhi NCR dominating city performance at $13.31bn total revenue.
