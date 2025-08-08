@@ -3,11 +3,11 @@
 ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis___Power-BI/blob/main/Front%20Page.png)
 
 #
-## Executive Summary
+## ✅Executive Summary
 This project, developed as part of a Power BI bootcamp, tackles the business challenge of fluctuating profitability and rising costs in an insurance company. Through a comprehensive dashboard, the analysis provides insights into claims, customer behavior, and policy performance to guide strategic decisions and improve customer retention.
 
 #
-### Business Problem
+### ✅Business Problem
 The core objectives of this analysis were to address the following key business questions:
 - Identify the root causes of rising claims costs and lengthy processing times.
 - Determine the profitability of policies across different customer segments.
@@ -15,11 +15,11 @@ The core objectives of this analysis were to address the following key business 
 - Detect anomalous patterns that could indicate fraudulent activity.
 
 #
-### Data Sourcing 
+### ✅Data Sourcing 
 This dataset was provided by the online school under strict confidentiality agreements and is classified as proprietary information. As such, it cannot be shared with third parties without explicit authorization.
 
 #
-### Data Tranformation & Manipulation
+### ✅Data Tranformation & Manipulation
 ### Data Cleaning with Power Query
 - Handling Missing Values: Removing and replacing null and blank data.
 - Data Type Correction: Ensuring all columns have the correct format (e.g., text, date, number) and the first row in some cases and promoted as the headers.
@@ -44,7 +44,7 @@ A star schema data model was implemented to create a robust and scalable structu
 
 
 # 
-### Dashboard Design
+### ✅Dashboard Design
 ### General View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/202.png)
 ### Sales Mode Analysis View
@@ -54,13 +54,13 @@ A star schema data model was implemented to create a robust and scalable structu
 
 # Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiMWM4MDM5NzItZDZkZS00NDUyLTliMDMtYzg5Njc1ZjE1ZjdhIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
 
-### Analysis & Key Insights
+### ✅Analysis & Key Insights
 - Following March 2023's significant customer acquisition spike, both Total Revenue ($33.12bn) and Total Customer (19.03k) experienced a slight 1% decline month-over-month.
 - The 31-40 age group is the largest and highest-revenue customer segment ($12.31bn), with Delhi NCR dominating city performance at $13.31bn total revenue.
 - The Offline-Agent sales mode overwhelmingly dominates, accounting for over 55% of both total customers and revenue; however, all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
 
 # 
-### Technical Skills and Tools
+### ✅Technical Skills and Tools
 - Data Visualization: Power BI
 
 - Data Wrangling & ETL: Power Query
@@ -72,7 +72,7 @@ A star schema data model was implemented to create a robust and scalable structu
 - Conceptual: Statistical Analysis, Customer Segmentation
 
 #
-### Conclusion & Recommendation 
+### ✅Conclusion & Recommendation 
 Conclusion
 The "Insurance Analysis" project successfully delivered a comprehensive solution for the company's data challenges. The Power BI dashboard provides a single source of truth for financial performance, customer behavior, and operational metrics.
 - Following a significant customer acquisition spike in March 2023, both Total Revenue ($33.12B) and Total Customers (19.03k) experienced a slight 1% month-over-month decline.
