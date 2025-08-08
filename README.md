@@ -20,7 +20,22 @@ This dataset was provided by the online school under strict confidentiality agre
 
 #
 ### Data Tranformation & Manipulation
+### Data Cleaning with Power Query
+- Handling Missing Values: Removing and replacing null and blank data.
+- Data Type Correction: Ensuring all columns have the correct format (e.g., text, date, number) and the first row in some cases and promoted as the headers.
+- Renaming and Structuring: Renaming columns for clarity and using merges or splits to organize data
 
+### Measures (DAX)
+Dynamic measures were created with DAX to perform aggregations for key business metrics. These calculations respond to filters and slicers in the report. Few measures are shown below
+
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/I1.png)
+  - Purpose: Calculating the total revenune unaffected by any filters.
+
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/I2.png)
+  - Purpose: Calculating the percnetage of each sales mode.
+    
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/I3.png)
+  - Purpose: Calculating the total amount of policies from Online Agent.
 #
 ### Data Modelling 
 A star schema data model was implemented to create a robust and scalable structure. This model centered around a fact premiums and settlements table, which was linked to several dimension tables including Customers, Policies, and Calendar. This design allows for efficient cross-functional analysis and provides a foundation for complex DAX measures.
