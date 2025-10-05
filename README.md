@@ -59,18 +59,6 @@ A star schema data model was implemented to create a robust and scalable structu
 - The 31-40 age group is the largest and highest-revenue customer segment ($12.31bn), with Delhi NCR dominating city performance at $13.31bn total revenue.
 - The Offline-Agent sales mode overwhelmingly dominates, accounting for over 55% of both total customers and revenue; however, all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
 
-# 
-### ✅Technical Skills and Tools
-- Data Visualization: Power BI
-
-- Data Wrangling & ETL: Power Query
-
-- Analysis: DAX (Data Analysis Expressions)
-
-- Modeling: Star Schema
-
-- Conceptual: Statistical Analysis, Customer Segmentation
-
 #
 ### ✅Conclusion & Recommendation 
 Conclusion
@@ -85,7 +73,13 @@ Recommedation
 - Proactively Manage Claims: Use the granular claims data to identify process bottlenecks and implement measures to reduce processing times and associated costs.
 - Enhance Fraud Detection: Implement a dedicated fraud detection workflow using the project's data foundation to monitor for and flag anomalous claims.
 
-#
+# 
+### ✅Technical Skills and Tools
+- Data Visualization: Power BI
+- Data Wrangling & ETL: Power Query
+- Analysis: DAX (Data Analysis Expressions)
+- Modeling: Star Schema
+- Conceptual: Statistical Analysis, Customer Segmentation
 
 ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
 
