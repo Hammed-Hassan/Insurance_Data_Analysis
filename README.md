@@ -66,8 +66,9 @@ The "Insurance Analysis" project successfully delivered a comprehensive solution
 - Following a significant customer acquisition spike in March 2023, both Total Revenue ($33.12B) and Total Customers (19.03k) experienced a slight 1% month-over-month decline.
 - The 31-40 age group is the largest and highest-revenue customer segment, with Delhi NCR being the top-performing city.
 - The Offline-Agent sales channel is the primary revenue driver, but all sales channels experienced a universal revenue surge in March 2023 followed by a sharp decline in April 2023.
-  
-Recommedation
+
+#
+### ✅Recommendation
 - Strategically Refine Channel Mix: Investigate the universal revenue decline in April 2023 to identify the root causes and develop a more resilient, diversified sales channel strategy.
 - Optimize High-Performing Segments: Leverage the insights from the dominant 31-40 age group and the Delhi NCR region to develop targeted marketing campaigns and policy offerings to maximize lifetime value.
 - Proactively Manage Claims: Use the granular claims data to identify process bottlenecks and implement measures to reduce processing times and associated costs.
