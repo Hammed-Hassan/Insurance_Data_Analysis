@@ -1,6 +1,6 @@
 # Insurance Analysis: Driving Profitability and Efficiency with Power BI
 
-![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis___Power-BI/blob/main/Front%20Page.png)
+![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/frontpage.png)
 
 #
 ## ✅Executive Summary
