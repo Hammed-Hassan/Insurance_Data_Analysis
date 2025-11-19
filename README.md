@@ -46,11 +46,11 @@ A star schema data model was implemented to create a robust and scalable structu
 # 
 ### ✅Dashboard Design
 ### General View
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/202.png)
+![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/2021.png)
 ### Sales Mode Analysis View
 ![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/203.png)
 ### Age Group Analysis View
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
+![Alt text for the image](https://github.com/Hammed-Hassan/Insurance_Data_Analysis/blob/main/2041.png)
 
 # Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiMDEyYmZiY2MtMTdkNC00OGJjLWJhMzktMTYyMWFlZTU3YmMxIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
 
