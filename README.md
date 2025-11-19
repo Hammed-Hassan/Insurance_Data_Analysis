@@ -52,7 +52,7 @@ A star schema data model was implemented to create a robust and scalable structu
 ### Age Group Analysis View
 ![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
 
-# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiMWM4MDM5NzItZDZkZS00NDUyLTliMDMtYzg5Njc1ZjE1ZjdhIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
+# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiMDEyYmZiY2MtMTdkNC00OGJjLWJhMzktMTYyMWFlZTU3YmMxIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
 
 ### ✅Analysis & Key Insights
 - Following March 2023's significant customer acquisition spike, both Total Revenue ($33.12bn) and Total Customer (19.03k) experienced a slight 1% decline month-over-month.
